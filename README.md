@@ -1,6 +1,7 @@
 <p align="center" width="300">
    <h3 align="center">👋 Hola, Soy Jose, desarrollador frontend 👨🏻‍💻</h3>
 </p>
+
 ***
 
 🔭 Actualmente estoy aprendiendo otras tecnologias web, mientras que trabajo en [All Seasons SRL](https://www.allseasons.com.ar/)
