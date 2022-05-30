@@ -10,14 +10,13 @@
 
 <p align="center">
    <h3>Habilidades:</h3>
-   <a>
-      <img align="center" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" />
-   <a/>
-   <a>
-      <img align="center" width="100" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" />
-   </a>
-</p>
+      <img align="center" width="100" src="" />
+   
+      <img align="center" width="100" src="" />
 
+</p>
+(https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png)
+(https://cdn.quasar.dev/logo-v2/svg/logo.svg)
 
 <!--
 **josegduarte96/josegduarte96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
