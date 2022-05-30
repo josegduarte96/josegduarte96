@@ -10,8 +10,12 @@
 
 <p align="center">
    <h3>Habilidades:</h3>
-   <img align="center" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" />
-   <img align="center" width="100" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" />
+   <a>
+      <img align="center" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" />
+   <a/>
+   <a>
+      <img align="center" width="100" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" />
+   </a>
 </p>
 
 
