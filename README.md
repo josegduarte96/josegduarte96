@@ -10,7 +10,7 @@
 
 <p align="center">
    <h3>Habilidades:</h3>
-   <img align="center" width="200" src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" />
+   <img align="center" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" />
 </p>
 
 
