@@ -2,6 +2,7 @@
 ***
 
 🔭 Actualmente estoy aprendiendo otras tecnologias web, mientras que trabajo en [All Seasons SRL](https://www.allseasons.com.ar/)
+
 🌱 Si quieres mirar todos mis proyectos: [Mi sitio web](https://joseduarte.netlify.app/)
 
 <!--
