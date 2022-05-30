@@ -11,7 +11,12 @@
 <p align="center">
    <h3>Habilidades:</h3>
 </p>
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png)
+
 (https://cdn.quasar.dev/logo-v2/svg/logo.svg)
 
 <!--
