@@ -1,9 +1,14 @@
-### 👋 Hola! Soy Jose, desarrollador frontend
+<p align="center" width="300">
+   <h3 align="center">👋 Hola, Soy Jose, desarrollador frontend 👨🏻‍💻</h3>
+</p>
 ***
 
 🔭 Actualmente estoy aprendiendo otras tecnologias web, mientras que trabajo en [All Seasons SRL](https://www.allseasons.com.ar/)
 
 🌱 Si quieres mirar todos mis proyectos: [Mi sitio web](https://joseduarte.netlify.app/)
+
+
+
 
 <!--
 **josegduarte96/josegduarte96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
