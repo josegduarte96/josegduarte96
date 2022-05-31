@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h3 align="center">👋 Hola, Soy Jose, desarrollador frontend 👨🏻‍💻</h3>
+   <h3 align="center">👋 Hola, soy Jose, Desarrollador Frontend 👨🏻‍💻</h3>
 </p>
 
 ***
