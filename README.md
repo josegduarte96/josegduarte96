@@ -9,8 +9,8 @@
 🌱 Si quieres mirar todos mis proyectos: [Mi sitio web](https://joseduarte.netlify.app/)
 
 
-<h2 align="center">Habilidades:</h2>
-<p align="center">
+<h2 >Habilidades:</h2>
+<p >
    <a href="https://vuejs.org/" target="blank" style='margin-right:4px'>
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" alt="vue" height="35px" width="35px" />
    </a>
@@ -37,6 +37,7 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josegduarte96)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **josegduarte96/josegduarte96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
