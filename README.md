@@ -8,10 +8,6 @@ Desarrollo productos digitales desde la interfaz hasta el backend. Más de 6 añ
 
 🌱 Todos mis proyectos: [joseduarte.netlify.app](https://joseduarte.netlify.app/)
 
-💼 Actualmente en **IKÉ Argentina**, trabajando con Next.js, React Native (Expo) y Java/Spring Boot.
-
-🚀 He trabajado con estándares internacionales como **GS1** y el **Digital Product Passport** de la Unión Europea.
-
 ## Stack
 
 **Frontend**
